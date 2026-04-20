@@ -1,4 +1,4 @@
-# HierVulEx: Hierarchical Multi-AI-Agent Cybersecurity Risk Assessment
+# Hierarchical Multi-AI-Agent Cybersecurity Risk Assessment
 
 A hierarchical multi-AI-agent approach for cybersecurity risk assessment and
 informed decision making. Three LLM-based agents operate across two tiers to
