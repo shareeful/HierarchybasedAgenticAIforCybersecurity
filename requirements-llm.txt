@@ -1,0 +1,6 @@
+torch>=2.3
+transformers>=4.44
+peft>=0.12
+accelerate>=0.33
+bitsandbytes>=0.43
+sentencepiece>=0.2

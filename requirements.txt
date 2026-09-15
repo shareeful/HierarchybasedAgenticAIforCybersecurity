@@ -1,0 +1,6 @@
+numpy>=1.26,<3
+pandas>=2.0
+scikit-learn>=1.4
+scipy>=1.11
+matplotlib>=3.8
+xgboost>=2.0
